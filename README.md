@@ -1,14 +1,14 @@
 # Khorshed Alam
 ## Senior Software Engineer / Backend / Full-Stack Engineer / App developer
 
-## Professional Summary
+## 🌐Professional Summary
 I am a Senior Software Engineer with 5.5+ years of experience building scalable web and mobile systems using Angular, React Native,
 Node.js, NestJS, TypeScript, React, and Next.js. Experienced in designing microservices, RESTful and real-time systems, and optimizing
 backend performance. I have delivered 6 production web and 6 mobile applications and mentored junior engineers while contributing to
 high-impact production systems across multiple companies.
 
 
-## Technical Skills
+## 💥 Technical Skills
 
 - Core Competencies (System Design, Microservices Architecture, REST & Real-time Systems, Scalable Backend Design, Cloud-Native
 Development, CI/CD Pipelines, Agile / Scrum)
@@ -20,10 +20,11 @@ WebSocket, NATS)
 - Database (PostgreSQL, MySQL, MongoDB, Firebase, Redis)
 - Cloud & DevOps (AWS Cognito, Docker, Kubernetes, Azure)
 
-## Professional Experience
+## 🚀 Professional Experience
 
 ## Senior Software Engineer
 Bizreflex, Dhaka, Bangladesh
+
 Nov 2023 – Present
 
 - Built scalable NestJS & Node.js backend services for real-time service dispatch and monitoring
@@ -40,6 +41,7 @@ Tech: Node.js, NestJS, TypeScript, Angular, PostgreSQL, Knex.js, WebSocket, NATS
 
 ## Software Engineer
 Aspire Intelligence Ltd, Dhaka, Bangladesh
+
 Nov 2022 – Nov 2023
 
 - Developed NestJS APIs for automation and compliance management systems supporting 10k+
@@ -53,6 +55,7 @@ Tech: NestJS, Node.js, TypeScript, React Native, react-redux, RTK query, Angular
 
 ## Software Engineer
 Gononet online solutions, Dhaka, Bangladesh
+
 Feb 2021 – Nov 2022
 
 - Developed React Native mobile apps and React web applications for consumer-facing platforms.
@@ -60,6 +63,7 @@ Feb 2021 – Nov 2022
 - Improved UI performance and reusability across platforms.
 
 Project: golliamove , gonoJobs
+
 Tech: React Native, Next.js, React, Node.js, Express.js, NestJS, MongoDB
 
 ## Junior Software Engineer
@@ -70,4 +74,5 @@ Sep 2019 – Feb 2021
 - Assisted in backend development using NestJS and database queries with Knex.js.
 
 Project: Sequinza , Minesweeper , GSA
+
 Tech: React Native, Angular, Node.js, NestJS, Docker, Kubernetes
