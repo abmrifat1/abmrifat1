@@ -85,6 +85,6 @@ Tech: React Native, Angular, Node.js, NestJS, Docker, Kubernetes
 
 rifatam1@gmail.com
 
-in: in/abm-khorshed-alam-rifat-a9945b126
+https://www.linkedin.com/in/abm-khorshed-alam-rifat-a9945b126/
 
-fb: https://www.facebook.com/abmkhorshedalamrifat1/
+https://www.facebook.com/abmkhorshedalamrifat1/
