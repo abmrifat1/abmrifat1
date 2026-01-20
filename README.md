@@ -1,11 +1,14 @@
 # Khorshed Alam
 ## Senior Software Engineer / Backend / Full-Stack Engineer / App developer
 
-## 🌐Professional Summary
+## 🌐 Professional Summary
 I am a Senior Software Engineer with 5.5+ years of experience building scalable web and mobile systems using Angular, React Native,
 Node.js, NestJS, TypeScript, React, and Next.js. Experienced in designing microservices, RESTful and real-time systems, and optimizing
 backend performance. I have delivered 6 production web and 6 mobile applications and mentored junior engineers while contributing to
 high-impact production systems across multiple companies.
+
+## Portfolio
+https://github.com/abmrifat1
 
 
 ## 💥 Technical Skills
@@ -22,7 +25,7 @@ WebSocket, NATS)
 
 ## 🚀 Professional Experience
 
-## Senior Software Engineer
+## 🛍️ Senior Software Engineer
 Bizreflex, Dhaka, Bangladesh
 
 Nov 2023 – Present
@@ -39,7 +42,7 @@ Project: Sequinza , Minesweeper , General system alert
 
 Tech: Node.js, NestJS, TypeScript, Angular, PostgreSQL, Knex.js, WebSocket, NATS
 
-## Software Engineer
+## 🛍️ Software Engineer
 Aspire Intelligence Ltd, Dhaka, Bangladesh
 
 Nov 2022 – Nov 2023
@@ -53,7 +56,7 @@ Project: Kaster
 
 Tech: NestJS, Node.js, TypeScript, React Native, react-redux, RTK query, Angular, AWS Cognito, Twilio
 
-## Software Engineer
+## 🛍️ Software Engineer
 Gononet online solutions, Dhaka, Bangladesh
 
 Feb 2021 – Nov 2022
@@ -66,7 +69,7 @@ Project: golliamove , gonoJobs
 
 Tech: React Native, Next.js, React, Node.js, Express.js, NestJS, MongoDB
 
-## Junior Software Engineer
+## 🛍️ Junior Software Engineer
 Bizreflex, Dhaka, Bangladesh
 Sep 2019 – Feb 2021
 
@@ -76,3 +79,12 @@ Sep 2019 – Feb 2021
 Project: Sequinza , Minesweeper , GSA
 
 Tech: React Native, Angular, Node.js, NestJS, Docker, Kubernetes
+
+## 🌐 Contact information
+01772515721, 01886407758
+
+rifatam1@gmail.com
+
+in: in/abm-khorshed-alam-rifat-a9945b126
+
+fb: https://www.facebook.com/abmkhorshedalamrifat1/
