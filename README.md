@@ -8,7 +8,7 @@ backend performance. I have delivered 6 production web and 6 mobile applications
 high-impact production systems across multiple companies.
 
 ## Portfolio
-https://github.com/abmrifat1
+https://abmrifat1.github.io/khorshed-alam.github.io/
 
 
 ## 💥 Technical Skills
