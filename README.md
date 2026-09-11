@@ -10,14 +10,14 @@ https://abmrifat1.github.io/khorshed-alam.github.io/
 
 ## 💥 Technical Skills
 
-• Languages: TypeScript, JavaScript (ES6+)
-• Backend: Node.js, NestJS, Express.js, Laravel, REST APIs, WebSocket, NATS (event-driven messaging), Knex.js,   Webhooks, Twilio 
-• Frontend: Angular, React, Next.js
-• Mobile: React Native (Redux, RTK Query) 
-• Database: PostgreSQL, MySQL, MongoDB, Firebase, Redis
-• Cloud & DevOps: AWS (Cognito), Docker, Kubernetes, Azure, CI/CD
-• Tools: Git, Knex.js, WebHooks, Twilio
-• Core Competencies: System Design, Microservices Architecture, Real-Time Systems, Scalable Backend Design, Cloud-Native Development, Agile/Scrum
+- Languages: TypeScript, JavaScript (ES6+)
+- Backend: Node.js, NestJS, Express.js, Laravel, REST APIs, WebSocket, NATS (event-driven messaging), Knex.js,   Webhooks, Twilio 
+- Frontend: Angular, React, Next.js
+- Mobile: React Native (Redux, RTK Query) 
+- Database: PostgreSQL, MySQL, MongoDB, Firebase, Redis
+- Cloud & DevOps: AWS (Cognito), Docker, Kubernetes, Azure, CI/CD
+- Tools: Git, Knex.js, WebHooks, Twilio
+- Core Competencies: System Design, Microservices Architecture, Real-Time Systems, Scalable Backend Design, Cloud-Native Development, Agile/Scrum
 
 ## 🚀 Professional Experience
 
