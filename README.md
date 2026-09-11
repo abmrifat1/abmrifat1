@@ -26,11 +26,11 @@ Gononet online solutions⁠⁠, Dhaka, Bangladesh
 
 Mar 2026 – Present
 
-• Architected and developed RetailerBook, a full-featured ERP web application delivering real-time visibility and control across stores, warehouses, consignment, and VMI locations.
-• Built a scalable, type-safe frontend using React, Next.js, Redux, RTK Query, and Zod, supporting complex inventory and financial workflows.
-• Implemented core ERP modules: POS & Sales Orders, Warehouse Operations, Purchase Management, and Quotation Comparison.
-• Enabled inventory value protection by surfacing slow-moving, damaged, and near-expiry stock risks early.
-• Designed stratified pricing rules ensuring consistent, profitable pricing across thousands of SKUs.
+- Architected and developed RetailerBook, a full-featured ERP web application delivering real-time visibility and control across stores, warehouses, consignment, and VMI locations.
+- Built a scalable, type-safe frontend using React, Next.js, Redux, RTK Query, and Zod, supporting complex inventory and financial workflows.
+- Implemented core ERP modules: POS & Sales Orders, Warehouse Operations, Purchase Management, and Quotation Comparison.
+- Enabled inventory value protection by surfacing slow-moving, damaged, and near-expiry stock risks early.
+- Designed stratified pricing rules ensuring consistent, profitable pricing across thousands of SKUs.
 
 Tech: React, Next.js, Redux, Zod, RTK query
 Project: RetailerBook⁠
@@ -40,10 +40,10 @@ Tekumo, Dhaka, Bangladesh
 
 Nov 2023 – Feb 2026
 
-• Built scalable NestJS & Node.js backend services for real-time service dispatch and monitoring platforms.
-• Implemented event-driven and real-time systems using NATS and WebSocket, supporting live updates and alerts.
-• Optimized PostgreSQL queries with Knex.js, improving API response time by ~30%.
-• Led backend initiatives and mentored junior engineers through code reviews and architectural guidance.
+- Built scalable NestJS & Node.js backend services for real-time service dispatch and monitoring platforms.
+- Implemented event-driven and real-time systems using NATS and WebSocket, supporting live updates and alerts.
+- Optimized PostgreSQL queries with Knex.js, improving API response time by ~30%.
+- Led backend initiatives and mentored junior engineers through code reviews and architectural guidance.
 
 Tech: Node.js, NestJS, TypeScript, Angular, PostgreSQL, Knex.js, WebSocket, NATS
 Project: Tekumopro⁠
@@ -53,9 +53,9 @@ Aspire Intelligence Ltd, Dhaka, Bangladesh
 
 Nov 2022 – Nov 2023
 
-• Developed NestJS APIs for automation and compliance management systems serving 10k+ daily users.
-• Implemented real-time communication using WebSocket and Twilio live events.
-• Built React Native applications with Redux and secure authentication using AWS Cognito.
+- Developed NestJS APIs for automation and compliance management systems serving 10k+ daily users.
+- Implemented real-time communication using WebSocket and Twilio live events.
+- Built React Native applications with Redux and secure authentication using AWS Cognito.
 
 Tech: NestJS, Node.js, TypeScript, React Native, React Redux, RTK query, Angular, AWS Cognito, Twilio
 Project: Kaster⁠
@@ -65,8 +65,8 @@ Gononet online solutions, Dhaka, Bangladesh
 
 Feb 2021 – Nov 2022
 
-• Developed React Native mobile apps and React web applications for consumer-facing platforms.
-• Integrated frontend applications with backend services supporting high-traffic users.
+- Developed React Native mobile apps and React web applications for consumer-facing platforms.
+- Integrated frontend applications with backend services supporting high-traffic users.
 
 Tech: React Native, Next.js, React, Node.js, Express.js, NestJS, MongoDB
 Project: golliamove⁠, gonoJobs
@@ -75,8 +75,8 @@ Project: golliamove⁠, gonoJobs
 Tekumo, Dhaka, Bangladesh
 Sep 2019 – Feb 2021
 
-• Built mobile and web applications using React Native, Angular, and Node.js.
-• Assisted in backend development using NestJS and database queries with Knex.js.
+- Built mobile and web applications using React Native, Angular, and Node.js.
+- Assisted in backend development using NestJS and database queries with Knex.js.
 
 Tech: React Native, Angular, Node.js, NestJS, Docker, Kubernetes
 Project: Tekumopro⁠, Minesweeper⁠, GSA
