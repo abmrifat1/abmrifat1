@@ -2,7 +2,9 @@
 ## Senior Software Engineer / Backend / Full-Stack Engineer / App developer
 
 ## 🌐 Professional Summary
-Senior Software Engineer with 7+ years of experience designing and shipping scalable web and mobile systems across service-dispatch, compliance automation, security, and ERP platforms. Specialized in Node.js, NestJS, and TypeScript with deep production expertise in event-driven and real-time architectures (WebSocket, NATS). Delivered 6 production web and 6 mobile applications, improved API response times by ~30% through PostgreSQL query optimization, and mentored junior engineers via code reviews and architectural guidance. Strong across the full SDLC: system design, microservices, cloud-native development, CI/CD, and Agile/Scrum.
+Senior Software Engineer with 7+ years of experience designing and shipping scalable web and mobile systems across servicedispatch, compliance automation, security, and ERP platforms. Specialized in Node.js, NestJS, and TypeScript with deep production expertise in event-driven and real-time architectures (WebSocket, NATS), along with hands-on experience in integrating Generative AI
+(LLMs) via scalable, provider-agnostic API gateways, implementing RAG (Retrieval-Augmented Generation) pipelines, and building autonomous AI Agents using Function Calling. Delivered 6 production web and 6 mobile applications, improved API response times by ~30% through PostgreSQL query optimization, and mentored junior engineers via code reviews and architectural guidance. Strong
+across the full SDLC: system design, microservices, cloud-native development, CI/CD, and Agile/Scrum.
 
 ## Portfolio
 https://abmrifat1.github.io/khorshed-alam.github.io/
@@ -11,14 +13,14 @@ https://abmrifat1.github.io/khorshed-alam.github.io/
 ## 💥 Technical Skills
 
 - Languages: TypeScript, JavaScript (ES6+)
-- Backend: Node.js, NestJS, Express.js, Laravel, REST APIs, WebSocket, NATS (event-driven messaging), Knex.js,   Webhooks, Twilio 
-- Frontend: Angular, React, Next.js
-- Mobile: React Native (Redux, RTK Query) 
+- Backend: Node.js, NestJS, Express.js, REST, WebSocket, NATS, LLM Integration (OpenAI, Groq, Gemini SDKs), LangChain, AI Agents (Function Calling), Vector Databases 
+- Frontend: React, Next.js, Angular, Redux, RTK Query, Zod
+- Mobile: React Native
 - Database: PostgreSQL, MySQL, MongoDB, Firebase, Redis
 - Cloud & DevOps: AWS (Cognito), Docker, Kubernetes, Azure, CI/CD
 - Tools: Git, Knex.js, WebHooks, Twilio
-- Core Competencies: System Design, Microservices Architecture, Real-Time Systems, Scalable Backend Design, Cloud-Native Development, Agile/Scrum
-
+- Core Competencies: System Design, Microservices Architecture, Real-Time Systems, Scalable Backend Design, npm package management, Cloud-Native Development, Agile/Scrum, AI API Integration Streaming (SSE), Prompt Engineering, RAG (Vector Databases).
+  
 ## 🚀 Professional Experience
 
 ## 🛍️ Senior Software Engineer
